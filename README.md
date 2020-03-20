@@ -83,14 +83,14 @@ su - yourusername
 ```
 download the wallet-client, tx and daemon file
 ```bash
-sudo wget https://github.com/FLASHMONILTD/GITHUB-OZEETY/raw/master/Linux-Wallet/ozeetyd
+sudo wget https://github.com/Flashgroupdevs/Linux_wallet/raw/master/Linux-Wallet-16.04/ozeetyd
 ```
 fillout the password of your username and press enter
 ```bash
-sudo wget https://github.com/FLASHMONILTD/GITHUB-OZEETY/raw/master/Linux-Wallet/ozeety-tx
+sudo wget https://github.com/Flashgroupdevs/Linux_wallet/raw/master/Linux-Wallet-16.04/ozeety-tx
 ```
 ```bash
-sudo wget https://github.com/FLASHMONILTD/GITHUB-OZEETY/raw/master/Linux-Wallet/ozeety-cli
+sudo wget https://github.com/Flashgroupdevs/Linux_wallet/raw/master/Linux-Wallet-16.04/ozeety-cli
 ```
 ```bash
 sudo chmod +x ozeetyd
@@ -128,33 +128,36 @@ maxconnections=64
 masternode=1
 masternodeprivkey=your-MASTERNODE-GENKEY-from-debugconsole
 externalip= Your IP-address
-addnode=167.71.66.94
-addnode=159.65.60.210
-addnode=167.71.72.157
-addnode=167.71.79.115
-addnode=167.71.72.110
-addnode=165.22.224.32
-addnode=167.71.138.75
-addnode=134.209.98.101
-addnode=167.71.117.234
-addnode=134.209.117.45
-addnode=165.22.8.105
-addnode=134.209.209.37
-addnode=165.22.137.88
-addnode=134.209.50.97
-addnode=157.245.75.54
-addnode=134.209.86.193
-addnode=174.138.23.195
-addnode=165.22.59.206
-addnode=167.71.69.189
-addnode=68.183.1.90
-addnode=167.71.5.168
-addnode=178.254.40.82
-addnode=178.254.29.39
-addnode=178.254.28.153
-addnode=178.254.12.25
-addnode=167.71.75.87
-addnode=167.71.138.75
+addnode=62.171.161.172
+addnode=5.189.189.254
+addnode=165.22.100.164
+addnode=68.183.207.201
+addnode=134.209.185.252
+addnode=178.128.109.168
+addnode=167.71.49.225
+addnode=167.71.230.110
+addnode=167.71.69.37
+addnode=178.128.100.208
+addnode=68.183.73.181
+addnode=165.22.50.174
+addnode=167.99.243.177
+addnode=157.245.36.167
+addnode=134.209.153.233
+addnode=159.89.124.113
+addnode=157.230.249.137
+addnode=178.128.169.18
+addnode=157.230.103.252
+addnode=167.99.176.122
+addnode=167.71.229.85
+addnode=159.203.8.36
+addnode=157.230.125.129
+addnode=138.197.171.102
+addnode=167.71.169.76
+addnode=157.245.174.75
+addnode=39.59.84.207
+addnode=138.197.149.83
+addnode=159.89.140.81
+addnode=134.209.199.165
 addnode=68.183.196.152
 addnode=165.22.75.47
 addnode=68.183.204.178
@@ -169,26 +172,31 @@ addnode=104.248.163.206
 addnode=68.183.45.212
 addnode=178.128.231.71
 addnode=167.71.208.34
-addnode=68.183.2.147
-addnode=134.209.94.131
-addnode=68.183.10.232
-addnode=142.93.225.113
-addnode=142.93.237.37
-addnode=104.248.80.204
-addnode=167.71.79.35
-addnode=165.22.193.197
-addnode=104.248.87.234
-addnode=165.22.106.189
-addnode=157.230.40.176
-addnode=178.128.59.214
-addnode=206.189.156.240
-addnode=206.189.145.150
-addnode=104.248.150.175
-addnode=165.22.247.204
-addnode=157.230.247.193
-addnode=165.22.100.242
-addnode=209.97.164.162
-addnode=167.71.216.219
+addnode=167.71.141.72
+addnode=157.245.89.114
+addnode=165.22.236.71
+addnode=68.183.32.4
+addnode=165.22.239.22
+addnode=157.245.70.79
+addnode=159.203.6.92
+addnode=157.245.65.17
+addnode=157.245.73.204
+addnode=157.245.66.171
+addnode=178.62.229.133
+addnode=178.62.237.238
+addnode=178.62.228.53
+addnode=178.62.203.63
+addnode=178.62.250.105
+addnode=178.62.200.104
+addnode=167.172.72.234
+addnode=157.245.147.8
+addnode=128.199.128.176
+addnode=128.199.251.101
+addnode=157.245.235.228
+addnode=167.172.127.88
+addnode=64.225.32.47
+addnode=64.225.34.160
+addnode=64.225.34.26
 #----
 ```
 save this file by pressing CONTROL+O and press enter
